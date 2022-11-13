@@ -3,10 +3,7 @@ body
 {
     color: blueviolet;
     text-align: center;
-<<<<<<< HEAD
-    font-family: curier;
-=======
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -38,5 +35,5 @@ margin: 0 auto;
     padding: 0 0 0 1cm;
     font-weight: normal;
     font-size: 0.8cm;
->>>>>>> cabecera
+
 }

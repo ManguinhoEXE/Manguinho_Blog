@@ -21,3 +21,18 @@ margin: 0 auto;
 {
     font-size: 30px;
 }
+#cabecera
+{
+    background: blue;
+    box-shadow: 0px 2px 20px 0px black;
+    color: white;
+     font-weight: bold;
+     margin: 0;
+     padding: 0.5cm;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.8cm;
+}
